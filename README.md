@@ -3,11 +3,11 @@
 <p align="center">Projeto feito com o intuito de criar uma dashboard a partir de web scraping (utilizando a linguagem R) sobre os dados da Netflix (filmes, avaliações, ações da empresa, etc)
 recolhidos de diferentes sites e plataformas, e poder investigar e cruzar os dados achados.
  
- dados: 
- avaliações do IMDB
- filmes (nome, diretor, elenco, ano, país, duração)
- premiações
- ações da netflix
+ dados: <br>
+ avaliações do IMDB <br>
+ filmes (nome, diretor, elenco, ano, país, duração) <br>
+ premiações <br>
+ ações da netflix <br>
  
-STATUS: não finalizado</p>
+STATUS: não finalizado </p>
 
