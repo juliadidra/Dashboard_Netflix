@@ -1,13 +1,11 @@
 # Projeto-R.
 <h1 align="center"> Dashboard netflix</h1>
-<p align="center">Projeto feito com o intuito de criar uma dashboard a partir de web scraping (utilizando a linguagem R) sobre os dados da Netflix (filmes, avaliações, ações da empresa, etc)
-recolhidos de diferentes sites e plataformas, e poder investigar e cruzar os dados achados.
+<p align="center"> Dashboard feito a partir de web scraping (utilizando a linguagem R) sobre os dados da Netflix (filmes, atores, países, etc)
+recolhidos de diferentes sites e plataformas. Com o intuito de recolher e cruzar informações sobre a empresa. 
  
  dados: <br>
- avaliações do IMDB <br>
- filmes (nome, diretor, elenco, ano, país, duração) <br>
- premiações <br>
- ações da netflix <br>
+ informações dos filmes (nome, diretor, elenco, ano, país, duração, etc) <br>
+
  
-STATUS: não finalizado </p>
+STATUS: finalizado </p>
 
