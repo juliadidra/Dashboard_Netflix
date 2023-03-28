@@ -6,5 +6,5 @@ recolhidos de diferentes sites e plataformas, com o intuito de analisar e cruzar
  
 
  
-STATUS: finalizado </p>
+Acesse o Dashboard através do link: <a> https://public.tableau.com/views/Graficodonuts/dash_netflix?:language=pt-BR&:display_count=n&:origin=viz_share_link</a> </p>
 
